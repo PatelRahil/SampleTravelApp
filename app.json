@@ -1,0 +1,17 @@
+{
+  "name": "DribbbleSampleApp",
+  "displayName": "DribbbleSampleApp",
+  "expo": {
+    "name": "DribbbleSampleApp",
+    "slug": "DribbbleSampleApp",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
